@@ -1,2 +1,2 @@
 # conflict-exercise
-Este es un cambio en la main breach.
+Este es un cambio combindado en ambas ramas.
